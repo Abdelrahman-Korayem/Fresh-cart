@@ -26,7 +26,7 @@ export default function Mainclider() {
 
     <>
 
-      <div className='row justify-center  '>
+       <div className='row justify-center  '>
         <div className='w-1/4'>
           <Slider {...settings}>
           <img src={mainslider} className='w-full h-[400px]' alt="" />
@@ -41,7 +41,6 @@ export default function Mainclider() {
 
         </div>
       </div>
-
 
 
     </>
